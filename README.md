@@ -1,8 +1,10 @@
 ![frame_firefox_mac_dark (1)](https://user-images.githubusercontent.com/80502833/187230764-e1bb2b44-c221-4529-ba73-a2261e636372.png)
 
-<h1 align="center">Car Rental Website Project</h1>  
+<h1 align="center">MaroVoitures - Car Rental Website Project</h1>  
 
-This is a project for a car rental website. It is a project for the College Mini Project.
+This is a school project for a car rental website developed as part of the College Mini Project.  
+The goal of this project is to create a functional and interactive website for renting cars, including user login, car listings, reservations, and admin management.
+
 
 ## Table of Contents
 
