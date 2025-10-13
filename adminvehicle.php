@@ -189,7 +189,7 @@ $num=mysqli_num_rows($queryy);
 <div class="hai">
         <div class="navbar">
             <div class="icon">
-                <h2 class="logo">CaRs</h2>
+                <h2 class="logo">MaroVoitures</h2>
             </div>
             <div class="menu">
                 <ul>
@@ -205,7 +205,7 @@ $num=mysqli_num_rows($queryy);
 
          </div>
         <div>
-            <h1 class="header">CARS</h1>
+            <h1 class="header">MaroVoitures</h1>
             <button class="add"><a href="addcar.php">+ ADD CARS</a></button>
             <div>
                 <div>
