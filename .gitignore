@@ -1,0 +1,45 @@
+# OS / System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# XAMPP / Local environment
+xamppfiles/
+htdocs/
+.env
+
+# PHP
+/vendor/
+/composer.lock
+
+# Database backups
+*.sql
+*.db
+*.sqlite
+
+# Cache
+/cache/
+/storage/
+*.cache
+
+# Node (if you used npm for CSS/JS)
+node_modules/
+package-lock.json
+
+# Uploads / images (optional, if too large)
+uploads/
+images/
+
+# Other
+*.zip
+*.tar
+*.gz
