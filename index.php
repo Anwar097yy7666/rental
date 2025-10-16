@@ -89,8 +89,12 @@ require_once('connection.php');
                   <li> <button class="adminbtn"><a href="adminlogin.php">ADMIN LOGIN</a></button></li>
                 </ul>
             </div>
-            
-          
+            <div class="search-bar">
+                <form method="GET" action="search.php">
+                    <input type="number" name="price" placeholder="Search by price..." min="0">
+                    <button type="submit">Search</button>
+                </form>
+            </div>
         </div>
         <div class="content">
             <h1>Rent Your <br><span>Dream Car</span></h1>
